@@ -1,9 +1,3 @@
-## Namaste React Course by Akshay Saini
-
-# _Episode 02 - Igniting Our App_
-
-## Coding :
-
 In your existing project
 
 - initialize `npm` into your repo
